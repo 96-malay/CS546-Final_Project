@@ -25,10 +25,6 @@ Here is a user test account:
 Username: Testaccount@gmail.com 
 Password: 12345678Ab
 
-gym owner account:
-Username: mshah951@stevens.edu
-Password: Newpass@123
-
 
 ## How to run this on your computer?
 clone the repository   
